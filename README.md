@@ -11,7 +11,8 @@ This project analyzes Minecraft server player data to predict newsletter subscri
 - `README.md` - This file
 
 ## Author
-Mohammad Reza Ebrahimi
+Mohammad Reza Ebrahimi 19764430
+Group 29 Section 008
 
 ## Course
 DSCI 100 - Introduction to Data Science
